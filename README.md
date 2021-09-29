@@ -10,7 +10,7 @@ You can reach me online at adam.bachman@gmail.com or https://twitter.com/abachma
 
 This account is a scratchpad for personal work and learning. The majority of what you'll find here aren't finished projects, it's more of a rough digital analog of the scratch paper piled around my physical workspace. When I'm working on an idea in my head, I use paper. When I'm working on an idea in software, I use code.
 
-Professionally, I am a software developer for [United States Citizenship and Immigration Services](https://www.uscis.gov/) (USCIS), building applications to support the US Asylum and Refugee programs, [mostly in the interview and remote working space](https://fcw.com/articles/2020/12/03/uscis-tablets-covid-asylum.aspx). Previously, I've worked with [Adafruit Industries](https://github.com/adafruit), [MICA](https://mica.edu), [Figure 53](https://github.com/figure53), [SmartLogic](https://github.com/smartlogic), and an advantage blackjack team you haven't heard of.
+Professionally, I am a software developer for [Stitch Fix](https://stitchfix.com) building out the GraphQL platform. Previously, I've worked with [USCIS](https://www.uscis.gov/) on tools for conducting interviews, [Adafruit Industries](https://github.com/adafruit) on the [Adafruit IO platform](https://io.adafruit.com), [MICA](https://mica.edu) teaching creative coding, [Figure 53](https://github.com/figure53), [SmartLogic](https://github.com/smartlogic), and an advantage blackjack team you haven't heard of.
 
 Here's a few things you'll find in my repositories: 
 
