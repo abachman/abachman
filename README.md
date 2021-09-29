@@ -2,8 +2,6 @@
 
 I'm a senior software developer with a particular interest in full-stack web development, distributed systems, creative coding, and teaching. I like building real-time messaging systems and tweaking user interfaces.
 
-Right now I'm playing with [Operational Transforms](https://github.com/abachman/document-editor) and [CRDTs](https://github.com/abachman/hyperlog-browser).
-
 You can reach me online at adam.bachman@gmail.com or https://twitter.com/abachman.
 
 ---
@@ -22,5 +20,7 @@ Here's a few things you'll find in my repositories:
 - A multi-installation sensor network and data-driven generative bookcover design engine: [MICAVIBE](https://github.com/micais2019/interactive-spaces). Full story at [karlssonwilker.com](https://karlssonwilker.com/project/mica-1/).
 - [1-dimensional cellular automata](https://github.com/abachman/wolfram-automata)
 - A [websocket library for p5.js](https://github.com/abachman/p5.websocket) and a [reference server](https://github.com/abachman/p5-websocket-server/)
+- Some [operational transform exploration](https://github.com/abachman/document-editor) in Ruby on Rails 
+- a [CRDT based in-browser almost-completely-serverless chat app](https://github.com/abachman/hyperlog-browser)
 
 If there's something else I should list or something you'd like to build with me, send me an email at [adam.bachman@gmail.com](mailto:adam.bachman@gmail.com).
