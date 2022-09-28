@@ -8,7 +8,7 @@ You can reach me online at adam.bachman@gmail.com or https://twitter.com/abachma
 
 This account is a scratchpad for personal work and learning. The majority of what you'll find here aren't finished projects, it's more of a rough digital analog of the scratch paper piled around my physical workspace. When I'm working on an idea in my head, I use paper. When I'm working on an idea in software, I use code.
 
-Professionally, I am a software developer for [Stitch Fix](https://stitchfix.com) building out the GraphQL platform. Previously, I've worked with [USCIS](https://www.uscis.gov/) on tools for conducting interviews, [Adafruit Industries](https://github.com/adafruit) on the [Adafruit IO platform](https://io.adafruit.com), [MICA](https://mica.edu) teaching creative coding, [Figure 53](https://github.com/figure53), [SmartLogic](https://github.com/smartlogic), and an advantage blackjack team you haven't heard of.
+Professionally, I am a software developer for [Recurly](https://recurly.com) building stronger teams and leading development on large financial processing systems. Previously, I've worked with [Stitch Fix](https://stitchfix.com) on their GraphQL platform team, [USCIS](https://www.uscis.gov/) on tools for conducting asylum interviews, [Adafruit Industries](https://github.com/adafruit) on the [IoT platform Adafruit IO](https://io.adafruit.com), [MICA](https://mica.edu) teaching creative coding, [Figure 53](https://github.com/figure53) building a theater ticketing platform, [SmartLogic](https://github.com/smartlogic) on various contract projects for startups and enterprises, and an advantage blackjack team you haven't heard of.
 
 Here's a few things you'll find in my repositories: 
 
@@ -19,7 +19,8 @@ Here's a few things you'll find in my repositories:
 - A pile of teaching materials: [Intermedia Studio - Fall 2018](https://github.com/abachman/intermedia-studio), [Interactive Spaces - Spring 2019](https://github.com/abachman/interactive-spaces) (and [the big project we did](https://github.com/micais2019/interactive-spaces)), [Creative Coding - Fall 2019](https://github.com/abachman/creative-coding-fall-2019), and [Creative Coding - Spring 2020](https://github.com/abachman/creative-coding-spring-2020)
 - A multi-installation sensor network and data-driven generative bookcover design engine: [MICAVIBE](https://github.com/micais2019/interactive-spaces). Full story at [karlssonwilker.com](https://karlssonwilker.com/project/mica-1/).
 - [1-dimensional cellular automata](https://github.com/abachman/wolfram-automata)
-- A [websocket library for p5.js](https://github.com/abachman/p5.websocket) and a [reference server](https://github.com/abachman/p5-websocket-server/)
+- A [websocket library for p5.js](https://github.com/abachman/p5.websocket) and corresponding [reference server](https://github.com/abachman/p5-websocket-server/)
+- A [screen recording tool for p5.js sketches](https://github.com/abachman/p5.webm-capture) so I could turn all [my Genuary sketches](https://github.com/abachman/genuary) into tiny videos.
 - Some [operational transform exploration](https://github.com/abachman/document-editor) in Ruby on Rails 
 - a [CRDT based in-browser almost-completely-serverless chat app](https://github.com/abachman/hyperlog-browser)
 
