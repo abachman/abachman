@@ -2,7 +2,7 @@
 
 I'm a senior software developer with a particular interest in full-stack web development, distributed systems, creative coding, and teaching. I like building real-time messaging systems and tweaking user interfaces.
 
-You can reach me online at adam.bachman@gmail.com or https://twitter.com/abachman.
+You can reach me online at adam.bachman@gmail.com or https://hachyderm.io/@abachman.
 
 ---
 
