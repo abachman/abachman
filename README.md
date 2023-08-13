@@ -2,7 +2,7 @@
 
 I'm a senior software developer with a particular interest in full-stack web development, distributed systems, creative coding, and teaching. I like building real-time messaging systems and tweaking user interfaces.
 
-You can reach me online at adam.bachman@gmail.com or https://hachyderm.io/@abachman.
+You can reach me online at adam.bachman@gmail.com or [https://hachyderm.io/@abachman](https://hachyderm.io/@abachman).
 
 ---
 
@@ -25,3 +25,6 @@ Here's a few things you'll find in my repositories:
 - a [CRDT based in-browser almost-completely-serverless chat app](https://github.com/abachman/hyperlog-browser)
 
 If there's something else I should list or something you'd like to build with me, send me an email at [adam.bachman@gmail.com](mailto:adam.bachman@gmail.com).
+
+<!-- indieauth footer -->
+<link rel="me" href="https://blit.adambachman.org" />
