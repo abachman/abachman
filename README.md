@@ -8,7 +8,9 @@ You can reach me online at adam.bachman@gmail.com or [https://hachyderm.io/@abac
 
 This account is a scratchpad for personal work and learning. The majority of what you'll find here aren't finished projects, it's more of a rough digital analog of the scratch paper piled around my physical workspace. When I'm working on an idea in my head, I use paper. When I'm working on an idea in software, I use code.
 
-Professionally, I am a software developer for [Recurly](https://recurly.com) building stronger teams and leading development on large financial processing systems. Previously, I've worked with [Stitch Fix](https://stitchfix.com) on their GraphQL platform team, [USCIS](https://www.uscis.gov/) on tools for conducting asylum interviews, [Adafruit Industries](https://github.com/adafruit) on the [IoT platform Adafruit IO](https://io.adafruit.com), [MICA](https://mica.edu) teaching creative coding, [Figure 53](https://github.com/figure53) building a theater ticketing platform, [SmartLogic](https://github.com/smartlogic) on various contract projects for startups and enterprises, and an advantage blackjack team you haven't heard of.
+Professionally, I am a principal engineer at [Recurly](https://recurly.com) mentoring engineers, building stronger teams, and leading technical projects for our large financial processing system.
+
+Previously, I've worked with [Stitch Fix](https://stitchfix.com) on their GraphQL platform team, [USCIS](https://www.uscis.gov/) on tools for conducting asylum interviews, [Adafruit Industries](https://github.com/adafruit) on the [IoT platform Adafruit IO](https://io.adafruit.com), [MICA](https://mica.edu) teaching creative coding, [Figure 53](https://github.com/figure53) building a theater ticketing platform, [SmartLogic](https://github.com/smartlogic) on various contract projects for startups and enterprises, and an advantage blackjack team you haven't heard of.
 
 Here's a few things you'll find in my repositories: 
 
