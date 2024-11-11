@@ -8,9 +8,18 @@ You can reach me online at adam.bachman@gmail.com or [https://hachyderm.io/@abac
 
 This account is a scratchpad for personal work and learning. The majority of what you'll find here aren't finished projects, it's more of a rough digital analog of the scratch paper piled around my physical workspace. When I'm working on an idea in my head, I use paper. When I'm working on an idea in software, I use code.
 
-Professionally, I am a principal engineer at [Recurly](https://recurly.com) mentoring engineers, building stronger teams, and leading technical projects for our large financial processing system.
+Professionally, I am a full-stack generalist. Right this second I'm building custom, human-scale software for the enterprise integrating AI because it seems like a pretty good idea to me.
 
-Previously, I've worked with [Stitch Fix](https://stitchfix.com) on their GraphQL platform team, [USCIS](https://www.uscis.gov/) on tools for conducting asylum interviews, [Adafruit Industries](https://github.com/adafruit) on the [IoT platform Adafruit IO](https://io.adafruit.com), [MICA](https://mica.edu) teaching creative coding, [Figure 53](https://github.com/figure53) building a theater ticketing platform, [SmartLogic](https://github.com/smartlogic) on various contract projects for startups and enterprises, and an advantage blackjack team you haven't heard of.
+Previously, I've worked with: 
+
+- [Recurly](https://recurly.com) mentoring engineers, building stronger teams, and leading technical projects for subscription management and payment processing
+- [Stitch Fix](https://stitchfix.com) on their GraphQL platform team
+- [USCIS](https://www.uscis.gov/) on custom tools the US humanitarian immigration program
+- [Adafruit Industries](https://github.com/adafruit) on the [IoT platform Adafruit IO](https://io.adafruit.com)
+- [MICA](https://mica.edu) teaching creative coding
+- [Figure 53](https://github.com/figure53) building a theater ticketing platform
+- [SmartLogic](https://github.com/smartlogic) on various contract projects for startups and enterprises
+- and an advantage blackjack team you haven't heard of
 
 Here's a few things you'll find in my repositories: 
 
